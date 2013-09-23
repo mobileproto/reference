@@ -11,7 +11,7 @@ Android
 
 ## Java
 
-*Reference:* This is your best reference book on Java: *Head First Java, 2nd Edition* [Amazon](http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1294712873&sr=8-1) [O'Reilly.](http://oreilly.com/catalog/9780596009205/) You can read most of this on [Google Books](http://books.google.com/books?id=5VTBuvfZDyoC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false). The missing pages are [right here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzb2Z0ZW5namF2YXxneDoyNWRlMTA0MTVmZThmN2Rj).
+**Book reference:** This is your best reference book on Java: *Head First Java, 2nd Edition* [Amazon](http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1294712873&sr=8-1) [O'Reilly.](http://oreilly.com/catalog/9780596009205/) You can read most of this on [Google Books](http://books.google.com/books?id=5VTBuvfZDyoC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false). The missing pages are [right here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzb2Z0ZW5namF2YXxneDoyNWRlMTA0MTVmZThmN2Rj).
 
 ### Questions
 
@@ -44,6 +44,6 @@ This **selects from** the table **my_notes** all data fields (the `*` used there
 
 Because this is the ugliest way to work with data, we usually wrap this up in nice big Java classes.
 
-**How do I use my database using nice, big Java classes? (How do I use SQLite on Android?)**
+**Q: How do I use my database using nice, big Java classes? (How do I use SQLite on Android?)**
 
 Glad you asked. [This tutorial on AndroidHive](http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/) presents a nice way to model a row in your database (here `Contact`) and a way to create, delete, and find contacts (here `DatabaseHelper`).
